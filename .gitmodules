@@ -1,0 +1,6 @@
+[submodule "todo_calendar_client"]
+    path = todo_calendar_client
+    url = https://github.com/Ravi3727/todo_calendar_client.git
+[submodule "Todo_Calendar_Server"]
+    path = Todo_Calendar_Server
+    url = https://github.com/Ravi3727/Todo_Calendar_Server.git
